@@ -3,11 +3,11 @@
 #include <time.h>
 /**
 * main - Entry point of the program
-*
 * Description:
 * This program generates a random number and prints the last digit of the number.
-* The output includes the original number, followed by the description of the last digit.
-* The description indicates whether the last digit is greater than 5, equal to 0, or less than 6 and not 0.
+* The output includes the original number, followed by the description of the
+* last digit. The description indicates whether the last digit is greater than 5,
+* equal to 0, or less than 6 and not 0.
 * Return: Always 0 (Success)
 */
 int main(void)
